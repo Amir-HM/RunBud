@@ -6,7 +6,7 @@ RunBud™ much like the script itself is very simple! Simply run the file and fo
 ### Installation
 Installing RunBud™ is simple, just download the software from GitHub or open terminal and paste the following code:
 ```shell
-git clone "GitHub repo URL"
+git clone https://github.com/AmirHM-Dwight/RunBud/
 ```
 
 ## License ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
